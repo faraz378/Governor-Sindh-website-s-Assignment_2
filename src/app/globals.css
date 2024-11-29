@@ -2,26 +2,26 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+footer p {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+footer a {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  font-size: 0.95rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.icon1 {
+  border-radius: 50%;
 }
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+.icon2 {
+  border-radius: 50%;
 }
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.icon3 {
+  border-radius: 50%;
+}
+.icon4 {
+  border-radius: 50%;
 }
