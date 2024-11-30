@@ -7,7 +7,7 @@ export default function Header() {
         <header className="w-full bg-gray-700">
             <div className="fixed top-0 w-full flex justify-evenly items-center bg-[#044E83] text-white pt-5 pb-5 ">
                 <div className="absolute left-20 top-6">
-                  <Image src={require("../../../images/picture/logo.png")} alt={"logo"} height={200} width={200} className="object-contain h-24 w-24">
+                  <Image src={"../../../public/picture/logo.png"} alt={"logo"} height={200} width={200} className="object-contain h-24 w-24">
                   </Image>
                 </div>
 

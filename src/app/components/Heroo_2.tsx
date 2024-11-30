@@ -26,7 +26,7 @@ const Heroo_2 = () => {
 
             <div className="grid grid-cols-3 mt-5 gap-5">
                 <Image
-                src={require("../../../images/picture/hero-1.jpg")}
+                src={"../../../images/picture/hero-1.jpg"}
                 alt={"hero-1"}
                 height={896}
                 width={1088}
@@ -34,7 +34,7 @@ const Heroo_2 = () => {
                 >
                 </Image>
                 <Image
-                src={require("../../../images/picture/hero-2.jpg")}
+                src={"../../../images/picture/hero-2.jpg"}
                 alt={"hero-2"}
                 height={375}
                 width={500}
@@ -42,7 +42,7 @@ const Heroo_2 = () => {
                 >
                 </Image>
                 <Image
-                src={require("../../../images/picture/hero-3.jpg")}
+                src={"../../../images/picture/hero-3.jpg"}
                 alt={"hero-3"}
                 height={896}
                 width={1088}
@@ -57,7 +57,7 @@ const Heroo_2 = () => {
 
             <div className="grid grid-cols-3 mt-8 gap-44">
                 <Image
-                src={require("../../../images/picture/hero-4.jpg")}
+                src={"../../../images/picture/hero-4.jpg"}
                 alt={"hero-4"}
                 height={300}
                 width={450}
@@ -65,7 +65,7 @@ const Heroo_2 = () => {
                 >
                 </Image>
                 <Image
-                src={require("../../../images/picture/hero-5.jpg")}
+                src={"../../../images/picture/hero-5.jpg"}
                 alt={"hero-5"}
                 height={300}
                 width={450}
@@ -73,7 +73,7 @@ const Heroo_2 = () => {
                 >
                 </Image>
                 <Image
-                src={require("../../../images/picture/hero-6.jpg")}
+                src={"../../../images/picture/hero-6.jpg"}
                 alt={"hero-6"}
                 height={300}
                 width={450}

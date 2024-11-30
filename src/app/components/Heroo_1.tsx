@@ -38,7 +38,7 @@ const Heroo_1 = () => {
                 <div>
                     <Image
                         className="h-[34rem] w-[34rem] object-cover object-center "
-                        src={require("../../../images/picture/governor.png")}
+                        src={"../../../images/picture/governor.png"}
                         alt={"logo"}
                         height={600}
                         width={600}
